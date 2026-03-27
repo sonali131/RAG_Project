@@ -91,4 +91,3 @@ while True:
 
     print(f"\n AI: {response.content}")
     
-

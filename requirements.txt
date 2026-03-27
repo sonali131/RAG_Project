@@ -54,3 +54,4 @@ streamlit
 tqdm
 requests
 streamlit>=1.32.0
+langchain-huggingface
